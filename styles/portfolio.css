@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+}
+.donate{
+    background-image: url(../image/3.jpg);
+    max-width: 1340px;
+    height:268px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 174px 307px; 
+}
+.sub-title{
+    text-align: center;
+    color:blue;
+    font-weight: 700;
+    font-size: 65px;
+}
+.description{
+    color: blue;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;  
+}
+.donate-now{
+    background: #FF5959;
+    border-radius: 5px;
+    width: 160px;
+    height: 70px;
+    padding: 16px 20px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: 46px;
+}
+.primary-key{
+    text-align: center;
+}
