@@ -114,6 +114,9 @@ hr{
 }
 .content{
     display: flex;
+    /* padding-left: 180px;
+    padding-right: 180px; */
+    justify-content: center;
 }
 .food-pic{
     width: 360px;
@@ -136,3 +139,22 @@ hr{
     margin-right: 24px;
     background:burlywood;
 }
+.pic{
+  padding: 50px 278px 10px 23px;
+}
+.pic-title{
+    font-weight: 600;
+    font-size: 24px;
+    padding-right: 133px;
+    padding-left: 23px;
+    margin-bottom: 16px;
+}
+.pic-description{
+    margin-left: 22px;
+    margin-right: 23px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
+}
+
+
