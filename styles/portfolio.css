@@ -275,6 +275,8 @@ hr{
     margin-top: 50px;
 }
 .e-title{
+    text-align: center;
+    font-size: medium;
     width: 275px;
     height: 48px;
     background-color: #D9D9D9;
